@@ -5,7 +5,8 @@
 This project analyzes SBA 7(a) loan activity from 2022 through 2025 using Microsoft Excel, Power Query, Power Pivot, DAX, and the Excel Data Model.
  
 The objective was to evaluate lending growth, geographic and industry concentration, charge-off risk, and employment impact using publicly available SBA loan data. The project includes data cleaning, data modeling, KPI development, dashboard creation, and business-focused analysis.
- 
+## Dashboard Preview 
+<img width="1498" height="1008" alt="Main " src="https://github.com/user-attachments/assets/1ca477ad-af13-4cdf-ba40-a13d325b37b5" />
 ## Dashboard Workbook
 - SBA_7A_Lending_Analysis_2022_2025.xlsx
  
