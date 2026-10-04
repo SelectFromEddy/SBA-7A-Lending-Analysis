@@ -1,5 +1,21 @@
 # SBA 7(a) Small Business Lending Analysis (2022–2025)
 
+## Overview
+ 
+This project analyzes SBA 7(a) loan activity from 2022 through 2025 using Microsoft Excel, Power Query, Power Pivot, DAX, and the Excel Data Model.
+ 
+The objective was to evaluate lending growth, geographic and industry concentration, charge-off risk, and employment impact using publicly available SBA loan data. The project includes data cleaning, data modeling, KPI development, dashboard creation, and business-focused analysis.
+ 
+## Dashboard Workbook
+- SBA_7A_Lending_Analysis_2022_2025.xlsx
+ 
+## Project Screenshots
+- Main Dashboard
+- California Filter View
+- Data Model
+- DAX Measures
+- Pivot Analysis
+
 ## Executive Summary
 
 This project analyzes SBA 7(a) loan data from 2022 to 2025 using Microsoft Excel to identify lending trends, geographic and industry concentration, lending risk, and employment impact.
